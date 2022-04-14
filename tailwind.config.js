@@ -5,7 +5,9 @@ module.exports = {
     extend: {
       colors: {
         bgBlue: '#6ACEDC',
-
+      },
+      fontFamily: {
+        Yanone: ['Yanone', 'sans-serif'],
       },
     },
   },
